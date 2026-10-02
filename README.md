@@ -18,7 +18,7 @@ Optional local preview: run `python3 -m http.server 4173` in this folder, then v
 
 - Home: programs, current activity, production approach, testimonial and newsletter.
 - Work: filterable project index; Fantasia, Andy and community-space detail pages.
-- Programs: repeatable offers; three individual detail pages with scope, audience, fees and enquiry links.
+- Programs: repeatable offers; six named program detail pages with scope, audience, fees and enquiry links.
 - Services: production, facilitation, portfolio review and commissions.
 - Research: field notes and project research; sample article.
 - About: short practice statement, with space for approved biography and credits.
@@ -49,3 +49,7 @@ This package is repository-ready; it has not been uploaded to GitHub or publishe
 ## Verification completed
 
 All local page links and assets were validated across 16 pages. Browser checks covered project filtering and reset, mobile menu navigation, contact and newsletter demo feedback, and program enquiry preselection. Homepage was visually inspected in desktop and narrow-screen views. Forms were tested with synthetic data only.
+
+## Correction from the full original conversation
+
+The named formats now anchor Programs: Erotics of Liberation, Epistemology of Embodiment, Parasympathetic, Embodied Audre Lorde Reading, Yoga / embodied practice, and Dance formats. Each has previous-edition and approved-feedback sections without invented dates or testimonials. Services now include movement/choreographic support, facilitation and cultural programming. Writing is request-based; the invented article and program examples are retired. The newsletter includes name and interest selection. Lap-dance information stays request-based pending an explicit visibility decision. Zurich/Leipzig references are unverified examples, not claimed edition records.
