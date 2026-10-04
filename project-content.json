@@ -6,11 +6,7 @@
     "tag": "Production / performance",
     "cat": "production performance",
     "cover": "alex_DSC04600.JPG",
-    "intro": "A journey into queer history and the Silver Factory community, bringing lecture, drag, karaoke, anecdotes and dance into a theatre performance.",
-    "text": [
-      "Andy Warhol is the starting point for an encounter with queer lives across time. Research, imagination and autobiography bring life in twentieth-century New York into conversation with queer experience today.",
-      "The project developed through three iterations: a university seminar lecture at Freie Universität Berlin; a lecture performance and artist talk at Literarischer Salon Berlin Friedrichshain; and theatre performances at Ost Passage Theater Leipzig."
-    ],
+    "intro": "Eine Zeitreise in die Queere Community der Silver Factory",
     "facts": [
       [
         "Year",
@@ -42,7 +38,8 @@
       ]
     ],
     "credits": "Costume: G3, Lars Schleifer, Gallanegra Upcycling, Victoria Vau, Aylin. Technical team: Vrena Zucker, Max Latinski. Photography credits were not supplied.",
-    "cover_url": "assets/andy-09.jpg"
+    "cover_url": "assets/andy-09.jpg",
+    "text_html": "<section class=\"language-section\" lang=\"de\"><h2>Deutsch</h2><h2>Pressetext</h2><p lang=\"de\">ANDY -  Queer Communities Across Time </p><p lang=\"de\">ANDY ist ein Vortrag in der Universität, das Referat eines Teenagers in der Schule, unterbrochen und angereichert durch Drag Performances, Karaoke-Einlagen, Anekdoten und Tanz Nummern.</p><p lang=\"de\">Andy Warhol lebte offen schwul in einer Zeit vor Stonewall, vor LGBTQIA+ Rechten und war trotzdem oder auch gerade deswegen bereits zu seinen Lebzeiten weltweit bekannt und gefeiert. Die schwule Kunst-Ikone bildet nur den Ausgangspunkt einer Zeitreise in queere Geschichte und queeres Leben.</p><p lang=\"de\">“Ich war froh, dass es weniger um Andy Warhol ging als ich erwartet hatte.” – Luna Ali</p><p lang=\"de\">Wir unterhalten uns, hören von, machen Party und haben Deeptalks mit Candy Darling, Jackie Curtis, Hollywoodlawn, Edie Sedgwick, Ocean X, Roy Dick u.a. Das Publikum ist dazu eingeladen mitzudenken und mitzufühlen, Fragen zu stellen und mit der Gegenwart, Vergangenheit und Zukunft queerer Gemeinschaft zu kommunizieren.</p><p lang=\"de\">“Queeren Personen aus der Vergangenheit zu begegnen war und ist unglaublich wichtig für mich. Sie geben uns Inspiration und Hoffnung.” – Alex Jarewski</p><p lang=\"de\">Vor allem in Zeiten ansteigender Queerfeindlichkeit (und dem fälschlichen Glauben mancher, Trans-Identitäten seien ein neues Phänomen) ist es uns wichtig, diese Verbindungen zur Geschichte zu schaffen, mit der Community zu teilen, am Leben zu halten und zu würdigen.</p><h2>Team &amp; Kooperationspartner</h2><p lang=\"de\">Produktion: Ocean </p><p lang=\"de\">Künstlerische Leitung: Alex Jarewski, Ocean </p><p lang=\"de\">Performer: Alex Jarewski, Ocean X, Guest (Noah Jason)</p><p lang=\"de\">Kostüm: G3, Lars Schleifer (@toadboi), Gallanegra Upcycling (@gallanegraaaaaaaaa), Victoria Vau (@victoria.vau), Aylin (@aylinthammer)</p><p lang=\"de\">Technik: Vrena Zucker, Max Latinski</p><p lang=\"de\">Spielstätte: Ost Passage Theater Leipzig</p><p lang=\"de\">Tombola unterstützt durch: Rotorbooks, Fummelei, Triëdere,  hdgdl tattoo, MellowD Accessory, OyuOceanArt, Tobia PeakAsso, t0adboi</p><p lang=\"de\">Bio Alex Jarewski ist Theaterregisseur, der sich aktuell in seinen Arbeiten mit der Schnittstelle von Queerness und Zeit beschäftigt. Er hat 2018 seinen Bachelor in Theaterregie an der Academy for Theatre and Dance in Amsterdam gemacht und studiert zurzeit Theaterwissenschaft im Master an der Freien Universität, Berlin.https://www.alexjarewski.com/</p></section><section class=\"project-iterations\"><h2>Iterations</h2><ol><li>Lecture during a seminar at FUB</li><li>Lecture Performance and Artist Talk at Literarischer Salon Berlin Friedrichshain</li><li>Theatre Performance at Ost Passage Theater Leipzig</li></ol></section>"
   },
   {
     "slug": "time-smuggler",
@@ -51,12 +48,7 @@
     "tag": "Performance / collective practice",
     "cat": "performance community",
     "cover": "_R9A3987_web.jpg",
-    "intro": "The body as architecture. A collaborative performance exploring how bodies in relation transform our experience of space and time.",
-    "text": [
-      "Initiated by Isabel Lewis and developed with artists from the Class for Performative Arts at the Academy of Fine Arts Leipzig, Time Smuggler creates temporary architectures within existing architecture. Bodies, movement, gestures and voices extend spatial structures and create shifting compositions.",
-      "Dreaming and dérive inform the approach. Drawing on Alina Popa’s Imitation of Dream and Guy Debord’s Theory of the Dérive, the ensemble shifts habitual patterns of movement and perception.",
-      "An evolving vocabulary of scores provides starting points for improvisation. Each iteration responds to the architecture, rhythms and social conditions of its surroundings."
-    ],
+    "intro": "The body as architecture. Transforming space by changing how we experience it.",
     "facts": [
       [
         "Initiated by",
@@ -81,11 +73,8 @@
       "Galerie für Zeitgenössische Kunst, Leipzig — adapted for The Word for Museum is Forest",
       "Ocean Space and public space, Venice — October 2024"
     ],
-    "quote": [
-      "TIME SMUGGLER proposed a collective art-making process, one that incorporates individual positions in ways that empower their voices and textures, rather than compromising them.",
-      "Eleni Michaelidi · curator and art historian · curatorial statement, December 2023"
-    ],
-    "cover_url": "assets/time-smuggler-07.jpg"
+    "cover_url": "assets/time-smuggler-07.jpg",
+    "text_html": "<section class=\"language-section\" lang=\"en\"><h2>English</h2><p lang=\"en\">The body as architecture. Transforming space by changing how we experience it.</p><p lang=\"en\">Time Smuggler was a collaborative performance project exploring how bodies in relation to one another can transform our experience of space and time.</p><p lang=\"en\">Initiated by Isabel Lewis and developed with artists from the Class for Performative Arts at the Academy of Fine Arts Leipzig, the project investigated ways of creating temporary architectures within existing architecture. Using only their bodies, movements, gestures, and voices, performers extended architectural structures, formed shifting spatial compositions, and experimented with different ways of inhabiting urban environments.</p><p lang=\"en\">Inspired by Alina Popa&#x27;s Imitation of Dream and Guy Debord&#x27;s Theory of the Dérive, Time Smuggler approached dreaming and drifting as artistic practices. By becoming aware of and deliberately shifting habitual patterns of movement and perception, the ensemble explored the boundaries between waking and dreaming, individual and group, body and built environment.</p><p lang=\"en\">Rather than following a fixed choreography, the group developed an evolving repertoire of performative scores: instructions and strategies that served as starting points for improvisation. Each iteration adapted these scores to the architecture, rhythms, and social conditions of its surroundings. Through physical interaction, moments of stillness, and changing group formations, performers altered how spaces were perceived and experienced without physically rebuilding them.</p><p lang=\"en\">Time Smuggler unfolded through performances at the Ringlokschuppen and Galerie für Zeitgenössische Kunst (GfZK) in Leipzig, as well as at Ocean Space and in public space during a local festival in Venice. At GfZK, the project was adapted for the exhibition The Word for Museum is Forest, guiding audiences through the museum&#x27;s Villa and garden. The Venice iterations formed part of the extended Biennale program.</p><p lang=\"en\">Time Smuggler invited participants and audiences to encounter familiar spaces differently, smuggling the logic of dreams into waking life and imagining other ways of moving, sensing, and being together.</p><p lang=\"en\">“TIME SMUGGLER proposed a collective art-making process, one that incorporates individual positions in ways that empower their voices and textures, rather than compromising them.”</p><p lang=\"en\">Eleni Michaelidi (Curator and art historian · Curatorial statement, December 2023)</p><h2>Venice · October 2024</h2><p lang=\"en\">Performance “Time Smuggler” </p><p lang=\"en\">a score based performance </p><p lang=\"en\">by Isabel Lewis and students of the Academy of Fine Arts Leipzig</p><p lang=\"en\">performed by students of Leipzig Fine Art Academy,  and local participants, </p><p lang=\"en\">October 2024, Ocean Space, Venice </p><p lang=\"en\">Photo: Enrico Fiorese (the good quality ones)</p><p lang=\"en\">Haiguang Li (the others)</p><h2>Quotes from the development process</h2><p lang=\"en\">The body becomes architecture. Architecture becomes movement.</p><p lang=\"en\">bodies sometimes cluster, sometimes extend existing lines, and sometimes interrupt the spatial order through movement and sound</p><p lang=\"en\">What if we could build without constructing anything?</p><p lang=\"en\">A wall does not necessarily end where the wall ends.</p><p lang=\"en\">We borrow space from architecture and return it transformed.</p><p lang=\"en\">To smuggle a dream into the architecture of everyday life.</p><p lang=\"en\">A different rhythm reveals a different city.</p><p lang=\"en\">Between one movement and the next, another space appears.&quot;</p><p lang=\"en\">To get lost without leaving the place.</p><p lang=\"en\">&quot;Be a time-smuggler.&quot; — Alina Popa, Imitation of Dream</p><p lang=\"en\">&quot;split out gravity, pour in grace&quot; — Phrase recorded in the Time Smuggler score catalogue, 2024</p><h2>Testimonials Performers</h2><p lang=\"en\">&quot;We started noticing things we would normally walk past. The angle of a wall, the distance between two buildings, the way someone else&#x27;s movement could change your sense of balance. Suddenly, the city wasn&#x27;t something around us anymore. We were part of its architecture.&quot;</p><p lang=\"en\">&quot;Sometimes we would spend twenty minutes developing something that lasted only a few seconds. A particular way of leaning against another body, a movement along a wall. What interested me was how little it took to completely change the feeling of a space.&quot;</p><p lang=\"en\">&quot;What interested us was the possibility of making architecture with nothing but our bodies. How can a group of performers transform a space without adding anything to it? The work emerged through attention, experimentation, and the ability to respond to one another and to the conditions of each site.&quot; – Isabel Lewis</p><h2>Participating venue perspectives</h2><p lang=\"en\">&quot;Time Smuggler offered an unusual encounter with our architecture. The performers activated corners, thresholds, walls, and passages that usually remain in the background. Visitors were invited to rediscover familiar spaces through movement and shared attention.&quot;</p><p lang=\"en\">&quot;Rather than treating the venue as a neutral backdrop, Time Smuggler allowed its architecture to become an active part of the performance. Each movement seemed to propose a different way of reading the space.&quot;</p></section>"
   },
   {
     "slug": "fantasia",
@@ -94,12 +83,7 @@
     "tag": "Artistic research / digital image",
     "cat": "research",
     "cover": "oOkk_20250403-132104_00000017.jpg",
-    "intro": "Computer-generated and code-manipulated images of phosphenes and inner, usually unseen experiences.",
-    "text": [
-      "Glowing fields probe the boundaries between sensory perception, mental imagery and imagination. The images belong to a larger body of artistic research connecting cognitive, somatic and philosophical approaches to experience.",
-      "Phosphenes are impressions of light in the absence of external light. The project gives form to subjective experiences that are not ordinarily visible to others, inviting viewers to reflect on their own sensory and imaginative worlds.",
-      "The works use imagination as a bridge between different experiences of perception. This gallery presents the supplied still images; it does not imply completed animations."
-    ],
+    "intro": "A.PHANTASIA ~ FIELDS OF IMAGINING by Oyu Ocean features computer-generated and code-manipulated visuals of phosphenes and inner, usually unseen, experiences: glowing, shifting fields that probe the boundaries between sensory perception, mental imagery, and imagination.",
     "facts": [
       [
         "Artist",
@@ -115,7 +99,8 @@
       ]
     ],
     "credits": "Artworks: Oyu Ocean. Specific work titles are not assigned to filenames where the source does not establish a match.",
-    "cover_url": "assets/fantasia-01.jpg"
+    "cover_url": "assets/fantasia-01.jpg",
+    "text_html": "<section class=\"language-section\" lang=\"en\"><h2>English</h2><p lang=\"en\">A.PHANTASIA ~ FIELDS OF IMAGINING by Oyu Ocean features computer-generated and code-manipulated visuals of phosphenes and inner, usually unseen, experiences: glowing, shifting fields that probe the boundaries between sensory perception, mental imagery, and imagination.</p><p lang=\"en\">Oyu Ocean is a gender-fluid sensory and experience artist whose work moves through themes of love, grief, liberation, and kinship. As a media artist, writer, performer, Ocean invites us into a world of playful intensity and poetic imagination.</p><p lang=\"en\">The artworks displayed are part of a larger body of artistic research visualizing phosphenes and inner, usually unseen, experiences. This approach highlights how imagination and visual phenomena extend beyond externally visible images to include subjective, internal experiences that are not typically accessible or observable in visual hegemony. The artworks probe the boundaries between sensory perception, mental imagery, and imagination. This research situates these visualizations within broader cognitive, somatic, and philosophical frameworks, emphasizing the interplay between sensory input, neuronal activity, and phenomenological experience. Such artistic explorations provide a unique method to make visible the invisible workings of the mind’s eye, expanding understanding of imagination both scientifically and experientially. The project embodies a convergence of art and neuroscience, capturing the essence of ‘phantasia’ as not only outward vision but also inner, subjective experience.</p><p lang=\"en\">The artworks invite imagination as a bridge connecting the inner worlds of the artist and others, fostering a shared space for exploring subjective, often unseen experiences. Through visualizing phenomena like phosphenes, they encourage viewers to engage with and reflect on their own mental imagery and sensory experiences, creating meaningful dialogue that transcends individual differences. This shared imaginative play serves as a foundation for empathy, curiosity, and mutual understanding despite the diversity of internal perceptions.</p><p lang=\"en\">Instagram: @oyuocean.art</p></section><section class=\"language-section\" lang=\"de\"><h2>Deutsch</h2><p>A.PHANTASIA- Fields of Imagining von Oyu Ocean zeigt computergenerierte und code-manipulierte Visualisierungen von Phosphenen und inneren, normalerweise unsichtbaren Erfahrungen: leuchtende, sich verändernde Felder, die die Grenzen zwischen Sinneswahrnehmung, mentalen Bildern und Vorstellungskraft ausloten.</p><p>Die Arbeit ist Teil einer größeren künstlerischen Forschung zu Sinneswahrnehmung, mentalen Bildern, Sprache und Vorstellungskraft, die diese kognitiv, somatisch und philosophisch untersucht und dabei das Zusammenspiel zwischen Sinneseindrücken, neuronaler Aktivität und phänomenologischer Erfahrung betont.</p><p>Phosphene sind Eindrücke von Licht in der Abwesenheit desselben, sie entstehen etwa, wenn wir uns die Augen reiben. Anders als viele andere Menschen fehlt mir die visuelle qusiperzeptionelle Fähigkeit, ich kann mir Dinge nicht willentlich und tatsächlich bildlich vorstellen, dies beschreibt man alas Aphantasie.</p><p>In unserer von visuell hegemonialen Welt steht mein Erfahren in einer bis vor kurzem unbekannten Peripherie, so bekam das Phänomen der Aphantasie erst 2015 seinen Namen.</p><p>Mit den Werken möchte ich Fantasie anregen und Brücken bilden zwischen unseren facettenreichen Erfahrungs- und Wahrnehmungswelten; einen Raum schaffen, der individuelle Unterschiede zu überwinden versucht.</p><p>Dieses gemeinsame fantasievolle Spiel bildet eine Grundlage für Empathie, Neugier und gegenseitiges Verständnis, trotz oder gar wegen der Vielfalt von Wahrnehmungs- und Erfahrungswelten.</p></section>"
   },
   {
     "slug": "phantasmagoria",
@@ -124,12 +109,7 @@
     "tag": "Artistic research / cartography",
     "cat": "research",
     "cover": "PHANTASMAGORIA_kartographische_morphismenLKolkata_2020.jpg",
-    "intro": "Cartographic material becomes abstract form: a way of travelling through places, news, memory and feeling.",
-    "text": [
-      "Places and coordinates become symbols for experiences, stories and events that leave a deep impression. Abstract two-dimensional objects made from cartographic material respond to places that briefly enter the centre of attention before disappearing into the periphery.",
-      "The works record journeys that are mental and emotional rather than physical. Maps, a portal to imagination and learning since childhood, form the visual starting point.",
-      "The process began during the Covid-19 lockdowns and continues as an ongoing practice of reflection and processing."
-    ],
+    "intro": "In PHANTASMAGORIA - Kartographische Morphismen von Oyu Ocean werden Orte und Koordinaten zu Chiffren, zu Symbolen für Erfahrungen, Geschichten, Ereignisse, die tief berühren.",
     "facts": [
       [
         "Artist",
@@ -145,7 +125,8 @@
       ]
     ],
     "credits": "Artworks: Oyu Ocean. Labels below follow the supplied filenames.",
-    "cover_url": "assets/phantasmagoria-01.jpg"
+    "cover_url": "assets/phantasmagoria-01.jpg",
+    "text_html": "<section class=\"language-section\" lang=\"de\"><h2>Deutsch</h2><p lang=\"de\">In PHANTASMAGORIA - Kartographische Morphismen von Oyu Ocean werden Orte und Koordinaten zu Chiffren, zu Symbolen für Erfahrungen, Geschichten, Ereignisse, die tief berühren.</p><p lang=\"de\">In durch die aus kartographischen Material geschaffenen abstrakten 2D Objekte, verarbeite ich die Erfahrung kurzlebiger Nachrichtenereignisse in denen Orte und Geschichten kurzzeitig ins Zentrum rücken und dann wieder in Peripherien verschwinden.</p><p lang=\"de\">In unserer globalisierten und hochvernetzten Ökonomie der Aufmerksam scheint es kaum Zeit zu geben, um zu spüren, zu verarbeiten und zu reflektieren.</p><p lang=\"de\">Die Arbeiten, betitelt mit Orten und Koordinaten, sind Zeugnis, Erinnerung und Zugang von Reisen an diese Orte und in Gefühle und Reflektion hinein; Reisen, die nicht physisch, sondern mental und emotional stattfanden.</p><p lang=\"de\">kartographisches Material, welches mir seit meiner Kindheit ein Portal zu Traumreisen, Fantasie und Lernen ist, bildet dabei die bildliche Grundlage meiner Auseinandersetzung.</p><p lang=\"de\">Dieser künstlerische Prozess der Reflektion, des Reisens und Verarbeitens begann während der Lockdowns der Covid-19 Pandemie, seitdem führt er sich als wohltuendes und herausforderndes Mittel meines Seins und Werdens fort.</p></section>"
   },
   {
     "slug": "embodied-tools",
@@ -154,12 +135,7 @@
     "tag": "Performance / collaboration",
     "cat": "performance",
     "cover": "bistro21_tools-and-handiness_performance-250306_(foto_laura-wichmann)_DSC05563.jpg",
-    "intro": "A sound tool turns the performers’ movements into a shared exploration of bodily, social and spatial orientation.",
-    "text": [
-      "Integrated into costume sleeves, mobile devices produce melodic digital sounds. Movement modulates the sounds in real time; the performers respond to the evolving soundscape in a situation of mutual affectivity.",
-      "The sound-generator prototype uses sensors in conventional smartphones and was developed with artist and computer scientist Jonathan Schneider. The performance draws on decentralised movement patterns of migratory birds and schools of fish.",
-      "Presented within FABULATIVE LORE: Tools and Handiness, the work explores how objects carry stories, scores and possibilities for interaction."
-    ],
+    "intro": "Multimedia installation & performance, 15’00’’ in the frame of the exhibition FABULATIVE LORE: Tools and handiness, curated by Alicia Franzke & Kay Pommer, performed by Oyu Ocean and Jan Selçuk",
     "facts": [
       [
         "Artist",
@@ -187,7 +163,8 @@
       ]
     ],
     "credits": "Photography: Laura Wichmann. Sound-tool development: Jonathan Schneider in collaboration with Lissy Willberg.",
-    "cover_url": "assets/embodied-tools-03.jpg"
+    "cover_url": "assets/embodied-tools-03.jpg",
+    "text_html": "<p>(Embodied) tools for decentralization</p><p>Lissy Willberg</p><p>2025 Bistro21 (DE) </p><p>Multimedia installation &amp; performance, 15’00’’ in the frame of the exhibition FABULATIVE LORE: Tools and handiness, curated by Alicia Franzke &amp; Kay Pommer, performed by Oyu Ocean and Jan Selçuk</p><section class=\"language-section\" lang=\"en\"><h2>English</h2><p lang=\"en\">How can we evolve traditions and shape them to reflect our present-day ideas and desires? The exhibition series FABULATIVE LORE explores lore—whether long-standing, fading from memory, undergoing transformation, or imagining futures yet to come. Lore (from the Old English lār, meaning “learning”) refers to knowledge and traditions passed down within a group. It can take many forms—stories, songs, crafts, rituals, symbols, or recipes—shaping identity, preserving skills, and connecting generations. </p><p lang=\"en\">In TOOLS AND HANDINESS, Lissy Willberg and Eszter Szöke explore through sculptures and performative processes how objects can influence relational thoughts and actions. Do objects carry stories and scores?</p><p lang=\"en\">[1] For the duo exhibition FABULATIVE LORE: Tools and Handiness with Eszter Szöke the prototype of a sound tool has been developed in collaboration with artist and computer scientist Jonathan Schneider. </p><p lang=\"en\">[2] Integrated into the sleeves of their costumes, the performers’ mobile devices produce melodic, digital sounds. Their movements modulate various effects, altering the sound in real time. The prototype for this sound generator, developed in close collaboration with artist and computer scientist Jonathan Schneider, utilizes the sensors embedded in conventional smartphones. As the performers – Kata Potrykus aka Oyu Ocean and Jan Selçuk – demonstrate the sound tool, visitors accompany them in exploring this novel instrument. With their eyes closed, the performers investigate the sounds generated by their movements. At the same time, their bodies respond to the evolving soundscape, creating a situation of mutual affectivity. The project explores moments of bodily, social, and spatial orientation, drawing inspiration from the decentralized movement patterns of migratory birds and schools of fish. </p><p lang=\"en\">[3] In Tools and Handiness, Lissy Willberg and Eszter Szöke explore tools and their influence on our interaction with the world. Just as tools evolve from mechanics to programming, the role of humans shifts from active mastery to passive operation. Willberg and Szöke question the characteristics and conventional uses of various tools, raising the following questions: How does a wagon wheel move when it hangs on a wall? Can a smartphone transform an individual movement into a collective one? (excerpt exhibition text) </p><p lang=\"en\">[4] (Embodied) tools for decentralization, performance in the framework of FABULATIVE LORE: Tools and Handiness at Bistro21, curated by Alicia Franzke and Kay Pommer, 06. März 2025, Leipzig. Photos: Laura Wichmann</p></section><section class=\"language-section\" lang=\"de\"><h2>Deutsch</h2><p lang=\"de\">Multimedia installation &amp; performance, 15’00’’ in the frame of the exhibition FABULATIVE LORE: Tools and handiness, curated by Alicia Franzke &amp; Kay Pommer, performed by Oyu Ocean and Jan Selçuk</p><p lang=\"de\">EN</p><p lang=\"de\">How can we evolve traditions and shape them to reflect our present-day ideas and desires? The exhibition series FABULATIVE LORE explores lore—whether long-standing, fading from memory, undergoing transformation, or imagining futures yet to come. Lore (from the Old English lār, meaning “learning”) refers to knowledge and traditions passed down within a group. It can take many forms—stories, songs, crafts, rituals, symbols, or recipes—shaping identity, preserving skills, and connecting generations. </p><p lang=\"de\">In TOOLS AND HANDINESS, Lissy Willberg and Eszter Szöke explore through sculptures and performative processes how objects can influence relational thoughts and actions. Do objects carry stories and scores?</p><p lang=\"de\">DE</p><p lang=\"de\">Wie können wir Traditionen weiterentwickeln und unseren heutigen Vorstellungen und Wünschen anpassen? Die Ausstellungsreihe FABULATIVE LORE behandelt Lore, die bereits existiert, ins Vergessen gerät, sich gerade neu formt oder in möglichen Zukünften liegt. Lore (vom altenglischen lār, was „Lernen“ bedeutet) bezieht sich auf Wissen und Traditionen, die innerhalb einer Gruppe weitergegeben werden. Sie können viele Formen annehmen - Geschichten, Lieder, Handwerk, Rituale, Symbole oder Rezepte - und prägen die Identität, bewahren Fähigkeiten und verbinden die Generationen.</p><p lang=\"de\">In TOOLS AND HANDINESS erforschen Lissy Willberg und Eszter Szöke mit Hilfe von Skulpturen und performativen Prozessen, wie Objekte das Denken und Handeln in Beziehungen beeinflussen können. Tragen Objekte Geschichten und Handlungsvorschläge?</p></section>"
   },
   {
     "slug": "ccc",
@@ -196,8 +173,7 @@
     "tag": "Bookable performance / interview",
     "cat": "performance",
     "cover": "250906_CisIsASlur-107.jpg",
-    "intro": "An interactive, spontaneous and participatory lap-dance / striptease performance. A work that changes with its venue, audience and moment.",
-    "text": [],
+    "intro": "Lapdance$Striptease Performance (interactive / spontaneous / participatory)",
     "facts": [
       [
         "Format",
@@ -209,14 +185,14 @@
       ]
     ],
     "credits": "Image credits were not supplied. The supplied text asks for an interview-led presentation.",
-    "interview": true,
     "editions": [
       "Cis Is A Slur · Ost Passage Theater Leipzig — listed in the source as November 2025",
       "Umerigo, Leipzig — 2021",
       "Rhizomania, Leipzig — date not supplied",
       "Panorama Bar, Berlin — date not supplied"
     ],
-    "cover_url": "assets/ccc-04.jpg"
+    "cover_url": "assets/ccc-04.jpg",
+    "text_html": "<section class=\"language-section\" lang=\"en\"><h2>English</h2><h3>Interview / Text</h3><p lang=\"en\">This piece shifts sight and audience accordingly. Its power lies in its ephemera, the constellation of the moment. I didn’t actually know I was working on a piece until I was booked by Alias and Roy Dick to perform at their Dragshow in a theatre. I didn’t know a piece had been emerging in different states of rhizomatic metamorphosis. Of course, first I performed CCC, it did not have a title then, in the strip club. Whilst it was a performance, sure, I didn’t consider it a work of art. It transitioned to feeling like art or a piece or a performance piece, a stage piece – urgh this is confusing – when venue and audience changes. What changed here was audience reaction and interaction. Also that once the piece was over I was interacted with as the artist, a friend, as community member etc. I am not sure as what I was interacted in the strip club; yes also different things but you are, or I felt more replaceable there. </p><p lang=\"en\">The first time I was booked to perform in a BI_PoC arts and community space was, it uplifted my heart. Ah yes, my language seems to distinguish between booked performance and just performance. It is terminology still evolving. But what I mean, well. There is a difference in how I perceive myself depending on circumstances. Prestige maybe? There is a difference in performing and busking in the streets as opposed to a stage at a festival or theatre let’s say. I would like to make these feelings more fluid, less domainbound? These days I do feel better getting paid as an artist then getting paid as a stripper. For the same work.</p><p lang=\"en\"><strong>Which pays better?</strong> [laughs] You’re probably talking about hard currency here. These days the hoe gets paid better than the artist. </p><h2>Previous Iterations</h2><p>2025/11Cis Is A Slur, Dragshow at Ost Passage Theater Leipzig</p><p>2021Umerigo Leipzig</p><p>Rhizomania Leipzig</p><p>Panorama Bar Berlin </p></section>"
   },
   {
     "slug": "lnx",
@@ -225,11 +201,7 @@
     "tag": "Performance / movement",
     "cat": "performance",
     "cover": "250906_CisIsASlur-204.jpg",
-    "intro": "A performance in a prologue and three stages, structured through four distinct lighting modes.",
-    "text": [
-      "The supplied notes identify LNX as an acronym for Lil Nas X and give the work’s earlier title as Closing {Panorama}.",
-      "The lighting sequence moves from a prologue with warm light and a static searchlight through green, blue and white flood light. These modes give the performance its changing visual conditions."
-    ],
+    "intro": "The title of this piece – LNX– is an acronym to Lil Nas X.",
     "facts": [
       [
         "Structure",
@@ -245,7 +217,8 @@
       ]
     ],
     "credits": "Photography credits were not supplied.",
-    "cover_url": "assets/lnx-07.jpg"
+    "cover_url": "assets/lnx-07.jpg",
+    "text_html": "<section class=\"language-section\" lang=\"en\"><h2>English</h2><p lang=\"en\">The title of this piece – LNX– is an acronym to Lil Nas X.</p><p lang=\"en\">Its first name was a different one, Closing {Panorama}</p><p lang=\"en\">We were in the studio, my sound engineer and I, when I got the news of Lis Nas X’s incarceration </p><p lang=\"en\">The piece has a prologue followed by three stages.</p><p lang=\"en\">Dramaturgically I am not so sure about the stages but I decided for four light modes:</p><p lang=\"en\">Prologue (warm light + static searchlight)</p><p lang=\"en\">1 green</p><p lang=\"en\">2 blue</p><p lang=\"en\">3 white, flood light (Putzlicht)</p><p lang=\"en\">Costume: G3 &amp; Victoria Vau</p></section>"
   },
   {
     "slug": "non-ego",
@@ -254,11 +227,11 @@
     "tag": "Performance / documentation",
     "cat": "performance",
     "cover": "8eb67d5e-02ea-42d7-96aa-0959e6db42b4_rw_1200.jpg",
-    "intro": "Performance documentation from the supplied Non-Ego archive.",
-    "text": [],
+    "intro": "",
     "facts": [],
     "credits": "Project description, roles, dates and image credits were not supplied. This page currently presents the available documentation.",
-    "cover_url": "assets/non-ego-01.jpg"
+    "cover_url": "assets/non-ego-01.jpg",
+    "text_html": ""
   },
   {
     "slug": "poolboy",
@@ -267,11 +240,7 @@
     "tag": "Film / queer joy",
     "cat": "film",
     "cover": "2020-08_poolboy_Screenshot.png",
-    "intro": "A celebration of queer joy, connection and playfulness, set against the backdrop of a shimmering blue pool.",
-    "text": [
-      "Laughter, swimming and shared moments bring diverse identities together. Water becomes a metaphor for fluidity: a space where boundaries dissolve and individual stories interweave.",
-      "Shot on a handheld camera phone, the film was filmed, edited and first screened during an artist residency in the German countryside."
-    ],
+    "intro": "POOLBOY  celebrating queer joy",
     "facts": [
       [
         "Year",
@@ -287,8 +256,8 @@
       ]
     ],
     "credits": "Film still from the supplied POOLBOY archive. The source includes a “Dokumenta Kassel 2023” note whose context requires clarification.",
-    "video": "The full film is retained in the source library. A streaming link or web-ready video will be added separately.",
-    "cover_url": "assets/poolboy-01.jpg"
+    "cover_url": "assets/poolboy-01.jpg",
+    "text_html": "<section class=\"language-section\" lang=\"en\"><h2>English</h2><p lang=\"en\">POOLBOY  celebrating queer joy</p><p lang=\"en\">Set against the backdrop of a shimmering blue pool, the film reflects candid moments of laughter, connection, and unfiltered happiness. Each frame serves as a testament to the beauty of diverse identities coming together, inviting viewers to immerse themselves in a world where love and authenticity flourish.</p><p lang=\"en\">The water becomes a metaphor for fluidity, a space where boundaries dissolve, and stories interweave in a celebration of life and connection. POOLBOY is a call to honor the vibrant spectrum of queer existence and the joy that returns when we are safe enough to allow ourselves to simply be.</p><p lang=\"en\">The film was shot, edited and first screened during a x-day artist residency, German countryside. </p><p lang=\"en\">It is shot with a handheld cameraphone. </p><p lang=\"en\">Music: Oklou</p></section>"
   },
   {
     "slug": "mii-ocean",
@@ -297,8 +266,7 @@
     "tag": "Collaboration / exhibition",
     "cat": "collaboration",
     "cover": "Unframed_Reframed_photo_2026-10-03 23.25.34.jpeg",
-    "intro": "Images and moving-image material from Mii&Ocean’s Unframed / Reframed archive.",
-    "text": [],
+    "intro": "",
     "facts": [
       [
         "Supplied moving image",
@@ -306,7 +274,7 @@
       ]
     ],
     "credits": "Project roles, full description and image credits were not supplied. Event poster and floor plan are included in the gallery.",
-    "video": "Two supplied videos remain in the source library for a later streaming or web-video integration.",
-    "cover_url": "assets/mii-ocean-04.jpg"
+    "cover_url": "assets/mii-ocean-04.jpg",
+    "text_html": ""
   }
 ]

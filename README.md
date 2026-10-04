@@ -25,3 +25,5 @@ Contact and newsletter forms demonstrate interaction but do not send or store su
 ## Verification
 
 All relative links and asset references checked across 31 pages. Project filtering and desktop/mobile project layouts checked in the browser.
+
+Project text correction: original supplied DOCX/PDF wording and languages restored. No invented interview questions or rewritten project descriptions. Internal editorial notes and duplicate invitation copy are excluded.
