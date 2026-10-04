@@ -6,4 +6,4 @@
 @media(max-width:750px){.project-opening,.project-information{grid-template-columns:1fr;gap:30px}.project-opening h1{font-size:46px}.project-gallery{grid-template-columns:1fr}.project-gallery img{height:auto;max-height:80vh}.project-text{font-size:17px}.work-card h2{font-size:25px}.work-image{aspect-ratio:4/3}.work-opening{padding-top:35px!important}.project-facts dl>div{grid-template-columns:100px 1fr}}
 @media(prefers-reduced-motion:reduce){.work-image img{transition:none}}
 
-.language-section{padding:0!important;margin-bottom:42px}.language-section>h2:first-child{font:12px Arial,sans-serif;letter-spacing:.13em;text-transform:uppercase;border-bottom:1px solid var(--line);padding-bottom:12px}.language-section h3{margin-top:22px}.project-iterations{padding:0!important}
+.language-section{padding:0!important;margin-bottom:42px}.language-section h3{margin-top:22px}.project-iterations{padding:0!important}
