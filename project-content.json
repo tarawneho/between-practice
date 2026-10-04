@@ -1,0 +1,312 @@
+[
+  {
+    "slug": "andy",
+    "folder": "ANDY (2025)",
+    "title": "ANDY — Queer Communities Across Time",
+    "tag": "Production / performance",
+    "cat": "production performance",
+    "cover": "alex_DSC04600.JPG",
+    "intro": "A journey into queer history and the Silver Factory community, bringing lecture, drag, karaoke, anecdotes and dance into a theatre performance.",
+    "text": [
+      "Andy Warhol is the starting point for an encounter with queer lives across time. Research, imagination and autobiography bring life in twentieth-century New York into conversation with queer experience today.",
+      "The project developed through three iterations: a university seminar lecture at Freie Universität Berlin; a lecture performance and artist talk at Literarischer Salon Berlin Friedrichshain; and theatre performances at Ost Passage Theater Leipzig."
+    ],
+    "facts": [
+      [
+        "Year",
+        "2025"
+      ],
+      [
+        "Production",
+        "Ocean"
+      ],
+      [
+        "Artistic direction",
+        "Alex Jarewski, Ocean"
+      ],
+      [
+        "Performers",
+        "Alex Jarewski, Ocean X, guest Noah Jason"
+      ],
+      [
+        "Venue",
+        "Ost Passage Theater Leipzig"
+      ],
+      [
+        "Performances",
+        "28 and 30 November 2025"
+      ],
+      [
+        "Duration",
+        "90 minutes, including a break"
+      ]
+    ],
+    "credits": "Costume: G3, Lars Schleifer, Gallanegra Upcycling, Victoria Vau, Aylin. Technical team: Vrena Zucker, Max Latinski. Photography credits were not supplied.",
+    "cover_url": "assets/andy-09.jpg"
+  },
+  {
+    "slug": "time-smuggler",
+    "folder": "Time Smuggler",
+    "title": "Time Smuggler",
+    "tag": "Performance / collective practice",
+    "cat": "performance community",
+    "cover": "_R9A3987_web.jpg",
+    "intro": "The body as architecture. A collaborative performance exploring how bodies in relation transform our experience of space and time.",
+    "text": [
+      "Initiated by Isabel Lewis and developed with artists from the Class for Performative Arts at the Academy of Fine Arts Leipzig, Time Smuggler creates temporary architectures within existing architecture. Bodies, movement, gestures and voices extend spatial structures and create shifting compositions.",
+      "Dreaming and dérive inform the approach. Drawing on Alina Popa’s Imitation of Dream and Guy Debord’s Theory of the Dérive, the ensemble shifts habitual patterns of movement and perception.",
+      "An evolving vocabulary of scores provides starting points for improvisation. Each iteration responds to the architecture, rhythms and social conditions of its surroundings."
+    ],
+    "facts": [
+      [
+        "Initiated by",
+        "Isabel Lewis"
+      ],
+      [
+        "With",
+        "Artists from the Class for Performative Arts, Academy of Fine Arts Leipzig"
+      ],
+      [
+        "Venice edition",
+        "October 2024 · Ocean Space"
+      ],
+      [
+        "Participants",
+        "Leipzig academy students and local participants"
+      ]
+    ],
+    "credits": "Venice photographs: Enrico Fiorese (files beginning _E1 and _R9A); Haiguang Li (TSphoto files). Other image credits were not supplied.",
+    "editions": [
+      "Ringlokschuppen, Leipzig",
+      "Galerie für Zeitgenössische Kunst, Leipzig — adapted for The Word for Museum is Forest",
+      "Ocean Space and public space, Venice — October 2024"
+    ],
+    "quote": [
+      "TIME SMUGGLER proposed a collective art-making process, one that incorporates individual positions in ways that empower their voices and textures, rather than compromising them.",
+      "Eleni Michaelidi · curator and art historian · curatorial statement, December 2023"
+    ],
+    "cover_url": "assets/time-smuggler-07.jpg"
+  },
+  {
+    "slug": "fantasia",
+    "folder": "A.PHANTASIA _ fields of imaging _ imagination",
+    "title": "A.PHANTASIA — Fields of Imagining",
+    "tag": "Artistic research / digital image",
+    "cat": "research",
+    "cover": "oOkk_20250403-132104_00000017.jpg",
+    "intro": "Computer-generated and code-manipulated images of phosphenes and inner, usually unseen experiences.",
+    "text": [
+      "Glowing fields probe the boundaries between sensory perception, mental imagery and imagination. The images belong to a larger body of artistic research connecting cognitive, somatic and philosophical approaches to experience.",
+      "Phosphenes are impressions of light in the absence of external light. The project gives form to subjective experiences that are not ordinarily visible to others, inviting viewers to reflect on their own sensory and imaginative worlds.",
+      "The works use imagination as a bridge between different experiences of perception. This gallery presents the supplied still images; it does not imply completed animations."
+    ],
+    "facts": [
+      [
+        "Artist",
+        "Oyu Ocean"
+      ],
+      [
+        "Medium",
+        "Computer-generated and code-manipulated imagery / digital prints"
+      ],
+      [
+        "Context",
+        "Ongoing artistic research"
+      ]
+    ],
+    "credits": "Artworks: Oyu Ocean. Specific work titles are not assigned to filenames where the source does not establish a match.",
+    "cover_url": "assets/fantasia-01.jpg"
+  },
+  {
+    "slug": "phantasmagoria",
+    "folder": "PHANTASMAGORIA _ kartographische Morphismen",
+    "title": "PHANTASMAGORIA — Kartographische Morphismen",
+    "tag": "Artistic research / cartography",
+    "cat": "research",
+    "cover": "PHANTASMAGORIA_kartographische_morphismenLKolkata_2020.jpg",
+    "intro": "Cartographic material becomes abstract form: a way of travelling through places, news, memory and feeling.",
+    "text": [
+      "Places and coordinates become symbols for experiences, stories and events that leave a deep impression. Abstract two-dimensional objects made from cartographic material respond to places that briefly enter the centre of attention before disappearing into the periphery.",
+      "The works record journeys that are mental and emotional rather than physical. Maps, a portal to imagination and learning since childhood, form the visual starting point.",
+      "The process began during the Covid-19 lockdowns and continues as an ongoing practice of reflection and processing."
+    ],
+    "facts": [
+      [
+        "Artist",
+        "Oyu Ocean"
+      ],
+      [
+        "Medium",
+        "Digital prints / cartographic abstraction"
+      ],
+      [
+        "Selected works",
+        "Kolkata · DRC · Kolkata Cloudburst · Marshall Islands"
+      ]
+    ],
+    "credits": "Artworks: Oyu Ocean. Labels below follow the supplied filenames.",
+    "cover_url": "assets/phantasmagoria-01.jpg"
+  },
+  {
+    "slug": "embodied-tools",
+    "folder": "(Embodied) tools for decentralization, ",
+    "title": "(Embodied) tools for decentralization",
+    "tag": "Performance / collaboration",
+    "cat": "performance",
+    "cover": "bistro21_tools-and-handiness_performance-250306_(foto_laura-wichmann)_DSC05563.jpg",
+    "intro": "A sound tool turns the performers’ movements into a shared exploration of bodily, social and spatial orientation.",
+    "text": [
+      "Integrated into costume sleeves, mobile devices produce melodic digital sounds. Movement modulates the sounds in real time; the performers respond to the evolving soundscape in a situation of mutual affectivity.",
+      "The sound-generator prototype uses sensors in conventional smartphones and was developed with artist and computer scientist Jonathan Schneider. The performance draws on decentralised movement patterns of migratory birds and schools of fish.",
+      "Presented within FABULATIVE LORE: Tools and Handiness, the work explores how objects carry stories, scores and possibilities for interaction."
+    ],
+    "facts": [
+      [
+        "Artist",
+        "Lissy Willberg"
+      ],
+      [
+        "Performers",
+        "Oyu Ocean and Jan Selçuk"
+      ],
+      [
+        "Context",
+        "FABULATIVE LORE: Tools and Handiness, with Eszter Szöke"
+      ],
+      [
+        "Curators",
+        "Alicia Franzke and Kay Pommer"
+      ],
+      [
+        "Venue / date",
+        "Bistro21, Leipzig · 6 March 2025"
+      ],
+      [
+        "Format",
+        "Multimedia installation & performance · 15 minutes"
+      ]
+    ],
+    "credits": "Photography: Laura Wichmann. Sound-tool development: Jonathan Schneider in collaboration with Lissy Willberg.",
+    "cover_url": "assets/embodied-tools-03.jpg"
+  },
+  {
+    "slug": "ccc",
+    "folder": "CCC (2025)",
+    "title": "CCC — Cash Character Courage",
+    "tag": "Bookable performance / interview",
+    "cat": "performance",
+    "cover": "250906_CisIsASlur-107.jpg",
+    "intro": "An interactive, spontaneous and participatory lap-dance / striptease performance. A work that changes with its venue, audience and moment.",
+    "text": [],
+    "facts": [
+      [
+        "Format",
+        "Interactive / spontaneous / participatory performance"
+      ],
+      [
+        "Availability",
+        "Bookable by enquiry"
+      ]
+    ],
+    "credits": "Image credits were not supplied. The supplied text asks for an interview-led presentation.",
+    "interview": true,
+    "editions": [
+      "Cis Is A Slur · Ost Passage Theater Leipzig — listed in the source as November 2025",
+      "Umerigo, Leipzig — 2021",
+      "Rhizomania, Leipzig — date not supplied",
+      "Panorama Bar, Berlin — date not supplied"
+    ],
+    "cover_url": "assets/ccc-04.jpg"
+  },
+  {
+    "slug": "lnx",
+    "folder": "LNX ",
+    "title": "LNX",
+    "tag": "Performance / movement",
+    "cat": "performance",
+    "cover": "250906_CisIsASlur-204.jpg",
+    "intro": "A performance in a prologue and three stages, structured through four distinct lighting modes.",
+    "text": [
+      "The supplied notes identify LNX as an acronym for Lil Nas X and give the work’s earlier title as Closing {Panorama}.",
+      "The lighting sequence moves from a prologue with warm light and a static searchlight through green, blue and white flood light. These modes give the performance its changing visual conditions."
+    ],
+    "facts": [
+      [
+        "Structure",
+        "Prologue + three stages"
+      ],
+      [
+        "Lighting",
+        "Warm / green / blue / white"
+      ],
+      [
+        "Costume",
+        "G3 & Victoria Vau"
+      ]
+    ],
+    "credits": "Photography credits were not supplied.",
+    "cover_url": "assets/lnx-07.jpg"
+  },
+  {
+    "slug": "non-ego",
+    "folder": "Non-Ego",
+    "title": "Non-Ego",
+    "tag": "Performance / documentation",
+    "cat": "performance",
+    "cover": "8eb67d5e-02ea-42d7-96aa-0959e6db42b4_rw_1200.jpg",
+    "intro": "Performance documentation from the supplied Non-Ego archive.",
+    "text": [],
+    "facts": [],
+    "credits": "Project description, roles, dates and image credits were not supplied. This page currently presents the available documentation.",
+    "cover_url": "assets/non-ego-01.jpg"
+  },
+  {
+    "slug": "poolboy",
+    "folder": "POOLBOY (2020)",
+    "title": "POOLBOY",
+    "tag": "Film / queer joy",
+    "cat": "film",
+    "cover": "2020-08_poolboy_Screenshot.png",
+    "intro": "A celebration of queer joy, connection and playfulness, set against the backdrop of a shimmering blue pool.",
+    "text": [
+      "Laughter, swimming and shared moments bring diverse identities together. Water becomes a metaphor for fluidity: a space where boundaries dissolve and individual stories interweave.",
+      "Shot on a handheld camera phone, the film was filmed, edited and first screened during an artist residency in the German countryside."
+    ],
+    "facts": [
+      [
+        "Year",
+        "2020"
+      ],
+      [
+        "Medium",
+        "Film"
+      ],
+      [
+        "Music",
+        "Oklou"
+      ]
+    ],
+    "credits": "Film still from the supplied POOLBOY archive. The source includes a “Dokumenta Kassel 2023” note whose context requires clarification.",
+    "video": "The full film is retained in the source library. A streaming link or web-ready video will be added separately.",
+    "cover_url": "assets/poolboy-01.jpg"
+  },
+  {
+    "slug": "mii-ocean",
+    "folder": "Mii&Ocean at Reframed-Unframed",
+    "title": "Mii&Ocean at Unframed / Reframed",
+    "tag": "Collaboration / exhibition",
+    "cat": "collaboration",
+    "cover": "Unframed_Reframed_photo_2026-10-03 23.25.34.jpeg",
+    "intro": "Images and moving-image material from Mii&Ocean’s Unframed / Reframed archive.",
+    "text": [],
+    "facts": [
+      [
+        "Supplied moving image",
+        "Matter_s of Artificial Intelligence Pt 2 (2025)"
+      ]
+    ],
+    "credits": "Project roles, full description and image credits were not supplied. Event poster and floor plan are included in the gallery.",
+    "video": "Two supplied videos remain in the source library for a later streaming or web-video integration.",
+    "cover_url": "assets/mii-ocean-04.jpg"
+  }
+]
