@@ -28,4 +28,4 @@ All relative links and asset references checked across 31 pages. Project filteri
 
 Project text correction: original supplied DOCX/PDF wording and languages restored. No invented interview questions or rewritten project descriptions. Internal editorial notes and duplicate invitation copy are excluded.
 
-Gallery ordering and row grouping can be changed in project-gallery.json and the corresponding HTML. Image browsers have manual controls and never advance automatically. Long descriptions remain visible, with facts above them.
+Gallery ordering and row grouping can be changed in project-gallery.json and the corresponding HTML. Project header carousels slide automatically, pause on hover/focus and provide a pause control. Reduced-motion preference disables automatic advance. Archive-card previews stay manual. Both support swipe, mouse drag, keyboard and buttons. Long descriptions remain visible, with facts above them.

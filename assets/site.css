@@ -16,3 +16,7 @@
 @media(prefers-reduced-motion:reduce){.card-image-browser .image-controls{transition:none}}
 
 .gallery-single{justify-content:center;padding-block:20px}.gallery-single figure{max-width:720px}.gallery-row:has(figure:nth-child(4)){gap:12px}@media(max-width:750px){.gallery-single{padding-block:10px}.gallery-row:has(figure:nth-child(4)) figure{flex-basis:calc(25% - 8px)!important}}
+
+/* Sliding image browsers: native swipe, mouse drag, and keyboard navigation. */
+.slide-viewport{width:100%;overflow-x:auto;scroll-snap-type:x mandatory;scrollbar-width:none;cursor:grab;overscroll-behavior-x:contain}.slide-viewport::-webkit-scrollbar{display:none}.slide-track{display:flex;width:100%}.image-slide{flex:0 0 100%;min-width:0;scroll-snap-align:start;display:block;overflow:hidden}.image-slide img{display:block;width:100%;user-select:none;pointer-events:none}.hero-image-browser .image-slide img{height:440px;object-fit:contain}.card-image-browser .image-slide{aspect-ratio:4/3}.card-image-browser .image-slide img{height:100%;object-fit:cover}.is-dragging{scroll-snap-type:none;cursor:grabbing}.image-controls .slideshow-toggle{width:auto;font-size:12px;padding:0 12px;min-width:62px}.card-image-browser .slide-viewport:focus-visible{outline-offset:-3px}.card-image-browser .image-controls{pointer-events:none}.card-image-browser .image-controls button{pointer-events:auto}
+@media(max-width:750px){.hero-image-browser .image-slide img{height:320px}}@media(max-width:400px){.hero-image-browser .image-slide img{height:280px}}
