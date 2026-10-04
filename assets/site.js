@@ -18,7 +18,7 @@
       document.querySelectorAll('[data-filter]').forEach(b => b.setAttribute('aria-pressed', String(b === button)));
       let count = 0;
       document.querySelectorAll('[data-category]').forEach(card => {
-        card.hidden = filter !== 'all' && card.dataset.category !== filter;
+        card.hidden = filter !== 'all' && !card.dataset.category.split(' ').includes(filter);
         if (!card.hidden) count++;
       });
       document.querySelector('#filter-status').textContent = `Showing ${count} ${count === 1 ? 'project' : 'projects'}`;
