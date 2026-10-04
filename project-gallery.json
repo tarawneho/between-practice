@@ -1,0 +1,237 @@
+{
+  "time-smuggler": {
+    "title": "Time Smuggler",
+    "slides": [
+      "assets/time-smuggler-07.jpg",
+      "assets/time-smuggler-08.jpg",
+      "assets/time-smuggler-06.jpg",
+      "assets/time-smuggler-03.jpg",
+      "assets/time-smuggler-04.jpg",
+      "assets/time-smuggler-05.jpg",
+      "assets/time-smuggler-09.jpg",
+      "assets/time-smuggler-01.jpg",
+      "assets/time-smuggler-02.jpg"
+    ],
+    "rows": [
+      [
+        "assets/time-smuggler-07.jpg",
+        "assets/time-smuggler-08.jpg"
+      ],
+      [
+        "assets/time-smuggler-06.jpg",
+        "assets/time-smuggler-03.jpg",
+        "assets/time-smuggler-04.jpg"
+      ],
+      [
+        "assets/time-smuggler-05.jpg"
+      ],
+      [
+        "assets/time-smuggler-09.jpg",
+        "assets/time-smuggler-01.jpg"
+      ],
+      [
+        "assets/time-smuggler-02.jpg"
+      ]
+    ]
+  },
+  "fantasia": {
+    "title": "A.PHANTASIA — Fields of Imagining",
+    "slides": [
+      "assets/fantasia-05.jpg",
+      "assets/fantasia-06.jpg",
+      "assets/fantasia-07.jpg",
+      "assets/fantasia-01.jpg",
+      "assets/fantasia-02.jpg",
+      "assets/fantasia-03.jpg",
+      "assets/fantasia-04.jpg"
+    ],
+    "rows": [
+      [
+        "assets/fantasia-05.jpg",
+        "assets/fantasia-06.jpg",
+        "assets/fantasia-07.jpg"
+      ],
+      [
+        "assets/fantasia-01.jpg",
+        "assets/fantasia-02.jpg"
+      ],
+      [
+        "assets/fantasia-03.jpg",
+        "assets/fantasia-04.jpg"
+      ]
+    ]
+  },
+  "phantasmagoria": {
+    "title": "PHANTASMAGORIA — Kartographische Morphismen",
+    "slides": [
+      "assets/phantasmagoria-01.jpg",
+      "assets/phantasmagoria-02.jpg",
+      "assets/phantasmagoria-03.jpg",
+      "assets/phantasmagoria-04.jpg"
+    ],
+    "rows": [
+      [
+        "assets/phantasmagoria-01.jpg",
+        "assets/phantasmagoria-02.jpg",
+        "assets/phantasmagoria-03.jpg"
+      ],
+      [
+        "assets/phantasmagoria-04.jpg"
+      ]
+    ]
+  },
+  "embodied-tools": {
+    "title": "(Embodied) tools for decentralization",
+    "slides": [
+      "assets/embodied-tools-01.jpg",
+      "assets/embodied-tools-02.jpg",
+      "assets/embodied-tools-03.jpg",
+      "assets/embodied-tools-04.jpg",
+      "assets/embodied-tools-05.jpg"
+    ],
+    "rows": [
+      [
+        "assets/embodied-tools-01.jpg",
+        "assets/embodied-tools-02.jpg"
+      ],
+      [
+        "assets/embodied-tools-03.jpg",
+        "assets/embodied-tools-04.jpg"
+      ],
+      [
+        "assets/embodied-tools-05.jpg"
+      ]
+    ]
+  },
+  "ccc": {
+    "title": "CCC — Cash Character Courage",
+    "slides": [
+      "assets/ccc-01.jpg",
+      "assets/ccc-02.jpg",
+      "assets/ccc-03.jpg",
+      "assets/ccc-04.jpg",
+      "assets/ccc-05.jpg",
+      "assets/ccc-06.jpg",
+      "assets/ccc-07.jpg",
+      "assets/ccc-08.jpg",
+      "assets/ccc-09.jpg",
+      "assets/ccc-10.jpg",
+      "assets/ccc-11.jpg"
+    ],
+    "rows": [
+      [
+        "assets/ccc-02.jpg",
+        "assets/ccc-03.jpg",
+        "assets/ccc-04.jpg"
+      ],
+      [
+        "assets/ccc-01.jpg",
+        "assets/ccc-08.jpg"
+      ],
+      [
+        "assets/ccc-05.jpg",
+        "assets/ccc-06.jpg"
+      ],
+      [
+        "assets/ccc-07.jpg"
+      ],
+      [
+        "assets/ccc-10.jpg",
+        "assets/ccc-11.jpg"
+      ],
+      [
+        "assets/ccc-09.jpg"
+      ]
+    ]
+  },
+  "lnx": {
+    "title": "LNX",
+    "slides": [
+      "assets/lnx-01.jpg",
+      "assets/lnx-02.jpg",
+      "assets/lnx-03.jpg",
+      "assets/lnx-04.jpg",
+      "assets/lnx-05.jpg",
+      "assets/lnx-06.jpg",
+      "assets/lnx-07.jpg",
+      "assets/lnx-08.jpg",
+      "assets/lnx-09.jpg",
+      "assets/lnx-10.jpg"
+    ],
+    "rows": [
+      [
+        "assets/lnx-01.jpg",
+        "assets/lnx-02.jpg",
+        "assets/lnx-03.jpg",
+        "assets/lnx-04.jpg"
+      ],
+      [
+        "assets/lnx-05.jpg"
+      ],
+      [
+        "assets/lnx-06.jpg",
+        "assets/lnx-07.jpg"
+      ],
+      [
+        "assets/lnx-08.jpg",
+        "assets/lnx-09.jpg"
+      ],
+      [
+        "assets/lnx-10.jpg"
+      ]
+    ]
+  },
+  "non-ego": {
+    "title": "Non-Ego",
+    "slides": [
+      "assets/non-ego-01.jpg",
+      "assets/non-ego-02.jpg",
+      "assets/non-ego-03.jpg",
+      "assets/non-ego-04.jpg"
+    ],
+    "rows": [
+      [
+        "assets/non-ego-02.jpg"
+      ],
+      [
+        "assets/non-ego-01.jpg",
+        "assets/non-ego-03.jpg"
+      ],
+      [
+        "assets/non-ego-04.jpg"
+      ]
+    ]
+  },
+  "poolboy": {
+    "title": "POOLBOY",
+    "slides": [
+      "assets/poolboy-01.jpg"
+    ],
+    "rows": [
+      [
+        "assets/poolboy-01.jpg"
+      ]
+    ]
+  },
+  "mii-ocean": {
+    "title": "Mii&Ocean at Unframed / Reframed",
+    "slides": [
+      "assets/mii-ocean-01.jpg",
+      "assets/mii-ocean-02.jpg",
+      "assets/mii-ocean-03.jpg",
+      "assets/mii-ocean-04.jpg"
+    ],
+    "rows": [
+      [
+        "assets/mii-ocean-04.jpg"
+      ],
+      [
+        "assets/mii-ocean-01.jpg"
+      ],
+      [
+        "assets/mii-ocean-02.jpg",
+        "assets/mii-ocean-03.jpg"
+      ]
+    ]
+  }
+}

@@ -24,6 +24,18 @@
       document.querySelector('#filter-status').textContent = `Showing ${count} ${count === 1 ? 'project' : 'projects'}`;
     });
   });
+  document.querySelectorAll('[data-images]').forEach(view => {
+    const images = JSON.parse(view.dataset.images);
+    const image = view.querySelector('img');
+    const count = view.querySelector('.image-count');
+    view.querySelectorAll('[data-step]').forEach(button => button.addEventListener('click', () => {
+      const index = (Number(view.dataset.imageIndex) + Number(button.dataset.step) + images.length) % images.length;
+      view.dataset.imageIndex = String(index);
+      image.src = images[index];
+      image.removeAttribute('width'); image.removeAttribute('height');
+      if (count) count.textContent = `${index + 1} / ${images.length}`;
+    }));
+  });
   document.querySelectorAll('[data-demo]').forEach(form => form.addEventListener('submit', event => {
     event.preventDefault();
     form.querySelector('.form-status').textContent = form.dataset.demo === 'newsletter'

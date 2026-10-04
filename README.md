@@ -4,7 +4,7 @@ Responsive, build-free HTML/CSS/JavaScript for an independent production practic
 
 ## Content
 
-Work contains ten source-backed projects: ANDY, Time Smuggler, A.PHANTASIA, PHANTASMAGORIA, (Embodied) tools for decentralization, CCC, LNX, Non-Ego, POOLBOY and Mii&Ocean. Each has a detail page with supplied context, credits and documentation. 82 optimized JPEGs are included. Original documents and full videos remain in the local source library; video playback is not yet connected.
+Work contains nine source-backed projects: Time Smuggler, A.PHANTASIA, PHANTASMAGORIA, (Embodied) tools for decentralization, CCC, LNX, Non-Ego, POOLBOY and Mii&Ocean. Each has a detail page with supplied context, credits and documentation. 55 optimized JPEGs are included. Original documents and full videos remain in the local source library; video playback is not yet connected.
 
 Program titles and activity labels remain generic placeholders at the user’s request. Services, Research, About, Contact and future Shop retain the preview architecture. Studio name and incomplete information remain clearly provisional. Missing photo credits, dates and roles need completion; conflicting source dates are flagged.
 
@@ -27,3 +27,5 @@ Contact and newsletter forms demonstrate interaction but do not send or store su
 All relative links and asset references checked across 31 pages. Project filtering and desktop/mobile project layouts checked in the browser.
 
 Project text correction: original supplied DOCX/PDF wording and languages restored. No invented interview questions or rewritten project descriptions. Internal editorial notes and duplicate invitation copy are excluded.
+
+Gallery ordering and row grouping can be changed in project-gallery.json and the corresponding HTML. Image browsers have manual controls and never advance automatically. Long descriptions remain visible, with facts above them.
